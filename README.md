@@ -10,9 +10,7 @@
     <a href="https://github.com/yagneshprajapati" target="_blank">
       <img src="https://img.shields.io/github/followers/yagneshprajapati?label=Follow&style=social" alt="GitHub followers">
     </a>
-    <a href="https://twitter.com/your-twitter-handle" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/your-twitter-handle?style=social" alt="Twitter Follow">
-    </a>
+     
   </p>
   
 </div>
