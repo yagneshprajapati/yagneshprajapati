@@ -32,7 +32,9 @@
  
  
   UI Links :- 
-  https://yagneshprajapati.github.io/SwaaVoice/
+  ![HTML](https://yagneshprajapati.github.io/SwaaVoice/)
+
+  
   ![HTML]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://www.figma.com/design/Zb1gt3MzeYXeD5WdPKUexg/Portfolio?node-id=11-80675&t=zwGX5FusQdUipPi9-1))
 
   
