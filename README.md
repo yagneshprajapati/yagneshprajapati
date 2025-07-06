@@ -25,6 +25,7 @@
 
   **UI Links:**  
   - [Frontend Project 1](https://yagneshprajapati.github.io/SwaaVoice/)  
+  - [Frontend Project 2](https://yagneshprajapati.github.io/quiz/)  
   - [Portfolio on Figma](https://www.figma.com/design/Zb1gt3MzeYXeD5WdPKUexg/Portfolio?node-id=11-80675&t=zwGX5FusQdUipPi9-1)  
 </details>
 
