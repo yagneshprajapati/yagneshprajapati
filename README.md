@@ -6,12 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=30&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;Pixel+Alchemist;Problem+Dissolver" alt="Animated Title">
 
   <!-- Interactive Social Badges -->
-  <p>
-    <a href="https://github.com/yagneshprajapati" target="_blank">
-      <img src="https://img.shields.io/github/followers/yagneshprajapati?label=Follow&style=social" alt="GitHub followers">
-    </a>
-     
-  </p>
+ 
   
 </div>
 
@@ -32,9 +27,9 @@
  
  
   UI Links :- 
-  [HTML](https://yagneshprajapati.github.io/SwaaVoice/)
-
-  
+  [Frontend 1](https://yagneshprajapati.github.io/SwaaVoice/)
+  .....
+  .....
   [Portfolio]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://www.figma.com/design/Zb1gt3MzeYXeD5WdPKUexg/Portfolio?node-id=11-80675&t=zwGX5FusQdUipPi9-1))
 
   
