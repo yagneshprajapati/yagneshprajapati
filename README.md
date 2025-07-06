@@ -31,8 +31,11 @@
 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  |
  
  
-  
+  UI Links :- 
+  https://yagneshprajapati.github.io/SwaaVoice/
+  ![HTML]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://www.figma.com/design/Zb1gt3MzeYXeD5WdPKUexg/Portfolio?node-id=11-80675&t=zwGX5FusQdUipPi9-1))
 
+  
   <summary><strong>📫 Get in Touch</strong></summary>
 
 - **Email:** [okyagnesh@gmail.com](mailto:your.email@example.com)
