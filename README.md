@@ -19,7 +19,7 @@
  
   <summary><strong>💡 About Me</strong></summary>
 
-  Hello! I’m Yagnesh—a passionate UI/UX designer who fuses creativity with functionality. Whether brainstorming at dawn or refining details at midnight, I’m dedicated to crafting intuitive designs that solve problems while delighting users.
+  Hello! I’m Yagnesh—a passionate UI/UX designer who fuses creativity with functionality.
  
  
   <summary><strong>💻 Skills & Tools</strong></summary>
@@ -32,10 +32,10 @@
  
  
   UI Links :- 
-  ![HTML](https://yagneshprajapati.github.io/SwaaVoice/)
+  [HTML](https://yagneshprajapati.github.io/SwaaVoice/)
 
   
-  ![HTML]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://www.figma.com/design/Zb1gt3MzeYXeD5WdPKUexg/Portfolio?node-id=11-80675&t=zwGX5FusQdUipPi9-1))
+  [Portfolio]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://www.figma.com/design/Zb1gt3MzeYXeD5WdPKUexg/Portfolio?node-id=11-80675&t=zwGX5FusQdUipPi9-1))
 
   
   <summary><strong>📫 Get in Touch</strong></summary>
